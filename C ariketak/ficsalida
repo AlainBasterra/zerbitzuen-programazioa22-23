@@ -1,0 +1,10 @@
+total 96
+-rwxr-xr-x 1 root  root  16048 sep 28 08:22 ejemploSystem
+-rwxr-xr-x 1 root  root  16048 sep 28 08:27 ejemploSystem2
+-rw-rw-r-- 1 alain alain   389 sep 28 08:26 ejemploSystem.c
+-rw-rw-r-- 1 alain alain     0 sep 28 08:27 ficsalida
+-rwxrwxr-x 1 alain alain 17128 sep 21 09:13 KaixoMundua
+-rw-rw-r-- 1 alain alain   101 sep 21 09:03 KaixoMundua.c
+-rwxrwxr-x 1 alain alain 15960 sep 21 08:49 KaixoMundua.exe
+-rw-rw-r-- 1 alain alain   400 sep 21 09:52 zenbakiagordeta.c
+-rwxrwxr-x 1 alain alain 16064 sep 21 09:52 znbk.exe
